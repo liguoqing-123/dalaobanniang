@@ -1,0 +1,76 @@
+@font-face {font-family: "iconfont";
+  src: url('/static/hl-uploadImg/iconfont.eot?t=1606370867503'); /* IE9 */
+  src: url('/static/hl-uploadImg/iconfont.eot?t=1606370867503#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('/static/hl-uploadImg/iconfont.woff?t=1606370867503') format('woff'),
+  url('/static/hl-uploadImg/iconfont.ttf?t=1606370867503') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('/static/hl-uploadImg/iconfont.svg?t=1606370867503#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-camerafill:before {
+  content: "\e664";
+}
+
+.icon-camera:before {
+  content: "\e665";
+}
+
+.icon-pic:before {
+  content: "\e69b";
+}
+
+.icon-picfill:before {
+  content: "\e72c";
+}
+
+.icon-album:before {
+  content: "\e734";
+}
+
+.icon-upload:before {
+  content: "\e75d";
+}
+
+.icon-check:before {
+  content: "\e645";
+}
+
+.icon-close:before {
+  content: "\e646";
+}
+
+.icon-roundcheckfill:before {
+  content: "\e656";
+}
+
+.icon-roundcheck:before {
+  content: "\e657";
+}
+
+.icon-roundclosefill:before {
+  content: "\e658";
+}
+
+.icon-roundclose:before {
+  content: "\e659";
+}
+
+.icon-roundaddfill:before {
+  content: "\e6d8";
+}
+
+.icon-roundadd:before {
+  content: "\e6d9";
+}
+
+.icon-add:before {
+  content: "\e6da";
+}
+

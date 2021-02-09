@@ -1,0 +1,333 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#efefef"
+			}
+		},
+		{
+			"path" : "pages/classify/classify",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#efefef"
+			}
+		},
+		{
+			"path" : "pages/order/order",
+			"style" : {
+				"navigationBarTitleText": "全部订单",
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"backgroundColorBottom": "#efefef",
+				"backgroundColorTop": "#efefef"
+			}
+		},
+		{
+			"path" : "pages/mine/mine",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/login/login",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/set/set",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/myLastMoney/myLastMoney",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/extend/extend",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/relation/relation",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/extendPerson/extendPerson",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+      "path" : "pages/exPerInfo/exPerInfo",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/incomeDetail/incomeDetail",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/getMoney/getMoney",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/chooseCard/chooseCard",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/addCard/addCard",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/food/food",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path" : "pages/evaluate/evaluate",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/pay/pay",
+			"style": {
+				"navigationBarTitleText": "确认订单",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/shop/shop",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#efefef"
+			}
+		},
+		{
+			"path" : "pages/foodDetail/foodDetail",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#FFFFFF"
+			}
+		},
+		{
+			"path" : "pages/cart/cart",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#efefef"
+			}
+		},
+		{
+			"path" : "pages/bossPage/bossPage",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#efefef"
+			}
+		},
+		{
+			"path" : "pages/userInfo/userInfo",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#efefef",
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/safe/safe",
+			"style" : {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#efefef",
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/commonSet/commonSet",
+			"style": {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				},
+				"backgroundColorBottom": "#efefef",
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/forgetPwd/forgetPwd",
+			"style": {
+				"navigationBarTitleText": "忘记密码",
+				"enablePullDownRefresh": false
+			}
+    },
+		{
+			"path" : "pages/changePwd/changePwd",
+			"style": {
+				"navigationBarTitleText": "修改密码",
+				"enablePullDownRefresh": false
+			}
+    },
+		{
+			"path" : "pages/collection/collection",
+			"style": {
+				"navigationBarTitleText": "我的收藏",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/monryHistory/monryHistory",
+			"style": {
+				"navigationBarTitleText": "提现记录",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/finishPay/finishPay",
+			"style": {
+				"navigationBarTitleText": "支付成功",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/orderCanBack/orderCanBack",
+			"style" : {
+				"navigationBarTitleText": "待付款",
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"backgroundColorBottom": "#efefef",
+				"backgroundColorTop": "#efefef"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#000000",
+		"selectedColor": "#f7637d",
+		"fontSize": "10px",
+		"iconWidth": "24px",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "首页",
+			"iconPath": "static/index11.png",
+			"selectedIconPath": "static/index22.png"
+		},{
+			"pagePath": "pages/classify/classify",
+			"text": "分类",
+			"iconPath": "static/classify11.png",
+			"selectedIconPath": "static/classify22.png"
+		},{
+			"pagePath": "pages/order/order",
+			"text": "订单",
+			"iconPath": "static/order11.png",
+			"selectedIconPath": "static/order22.png"
+		},{
+			"pagePath": "pages/mine/mine",
+			"text": "我的",
+			"iconPath": "static/mine11.png",
+			"selectedIconPath": "static/mine22.png"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "pages/index/index", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}
